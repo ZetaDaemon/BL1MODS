@@ -1,0 +1,13 @@
+ZetaLootVial.Custom_Items.Gearbox_Zeta
+ZetaLootVial.A_Item.Item_LootVial_Zeta
+None
+None
+None
+None
+gd_manufacturers.Manufacturers.Gearbox
+ZetaLootVial.Prefix.Prefix_Gearbox1_Zeta
+ZetaLootVial.Title.TitleP_Gearbox1_Zeta
+100
+5
+0
+0

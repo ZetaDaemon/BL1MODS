@@ -1,0 +1,9 @@
+### INSTALL INSTRUCTIONS
+
+Place the folder titled 'ZetaGear' in "Borderlands/WillowGame/CookedPC"
+
+Note - It's better to place the folder itself in the 'CookedPC' folder rather than the contents of the folder as it will make updating easier.
+
+Using Willow Tree import the Loot Vial for this mod thats in the text file 'ZetaLootVial.txt', once that is done just open your character in game and you'll see my custom loot dropping untill save quit.
+
+Big thanks to Tha Campin' Dutchman for letting me use his loot vial system to create my own and to him and Sleepmaster for helping me figure out how to make mods.
